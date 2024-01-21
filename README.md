@@ -1,3 +1,4 @@
+# Hi , This is Pathikreet Chowdhury!
 # 💫 About Me:
 I’m currently learning Tesnorflow , MlOps , React , Nodejs , Expressjs , Pytorch , OpenCV<br>All of my projects are available at https://vayuputra2401.github.io/Personal-Portfolio/<br>Ask me about machine learning and full stack development<br>How to reach me pathikreetofficial@gmail.com<br>Fun fact An international chess player and a robotics enthusiast ;)
 
