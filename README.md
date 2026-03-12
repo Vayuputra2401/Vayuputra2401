@@ -21,7 +21,7 @@ My work sits at the intersection of **Computer Vision**, **Federated Learning**,
 - 🔬 &nbsp;Thesis: Privacy-preserving federated face recognition (FedFace) with FedMoCo self-supervised learning
 - 🤖 &nbsp;Built DANA at Siemens — a BDI/OODAR neuro-symbolic agent using LangGraph + Gemini for chiller anomaly detection
 - ☁️ &nbsp;Building GCP-scale data pipelines at Flipkart/Cleartrip
-- 🚀 &nbsp;Founding two startups: **Chef.ai** (AI-powered Indian cooking with YOLO-Seg + Gemini) and a **WhatsApp-based rural healthcare diagnostic tool** for ASHA workers
+- 🚀 &nbsp;Founding two startups: **Chef.ai**  and a **WhatsApp-based rural healthcare diagnostic tool** for ASHA workers
 - ♟️ &nbsp;International chess player & robotics enthusiast
 
 ---
