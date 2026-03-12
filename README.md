@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pathikreet%20Chowdhury&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Researcher%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=M.Tech+%28IDD%29+CS+%40+RGIPT+Amethi+%E2%80%A2+Final+Year;Data+Engineer+%40+Flipkart+%7C+Ex-Siemens+Research+Engineer;Published+%40+ICPR+2024+%E2%80%A2+ICIT+2025+%E2%80%A2+ACMM+2026+%28under+review%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Data+Engineer+%40+Flipkart+%7C+Ex-Siemens+Research+Engineer;Published+%40+ICPR+2024+%E2%80%A2+ICIT+2025+%E2%80%A2+ACMM+2026+%28under+review%29)](https://git.io/typing-svg)
 
 <a href="https://pathikreet.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pathikreet.com-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pathikreet-chowdhury-489b77234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
