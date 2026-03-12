@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a final-year M.Tech (IDD) Computer Science student at RGIPT Amethi, currently working as a Data/Software Engineer at **Flipkart (Cleartrip)** on large-scale GCP pipelines. Previously a **Research Engineer at Siemens**, where I built **DANA** — a neuro-symbolic LLM-powered agent for industrial anomaly detection.
+ Working as a Data Engineer at **Flipkart (Cleartrip)** on large-scale GCP pipelines. Previously a **Research Engineer at Siemens**, where I built **DANA** — a neuro-symbolic LLM-powered agent for industrial anomaly detection.
 
 My work sits at the intersection of **Computer Vision**, **Federated Learning**, **Agentic AI**, and **MLOps**. I've published at ICPR 2024 and ICIT 2025, with a paper currently under review at ACMM 2026.
 
