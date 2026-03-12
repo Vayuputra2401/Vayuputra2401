@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Data+Engineer+%40+Flipkart+%7C+Ex-Siemens+Research+Engineer;Published+%40+ICPR+2024+%E2%80%A2+ICIT+2025+%E2%80%A2+ACMM+2026)](https://git.io/typing-svg)
 
-<a href="https://pathikreet.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pathikreet.com-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://vayuputra2401.github.io/Personal-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pathikreet.com-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pathikreet-chowdhury-489b77234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pathikreetofficial@gmail.com"><img src="https://img.shields.io/badge/Email-pathikreetofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
