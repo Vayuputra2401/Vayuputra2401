@@ -1,8 +1,8 @@
 <a href="https://vayuputra2401.github.io/Personal-Portfolio/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-v2-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-v2-light.svg">
-  <img alt="Pathikreet Chowdhury — ML engineer, researcher, founder. I build AI that holds up outside the notebook." src="assets/header-v2-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-v3-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-v3-light.svg">
+  <img alt="Pathikreet Chowdhury — ML engineer, researcher, founder. I build AI that holds up outside the notebook." src="assets/header-v3-light.svg" width="100%">
 </picture>
 </a>
 
